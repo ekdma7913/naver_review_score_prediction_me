@@ -1,4 +1,4 @@
-# naver_review_score_prediction_me
+# GRU를 활용한 네이버 영화 리뷰평점 예측(개인)
 
 notion 참조
 
